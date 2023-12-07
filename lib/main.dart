@@ -1,9 +1,9 @@
-import 'package:first_appication1/pagesFolder/contact.dart';
-import 'package:first_appication1/pagesFolder/home.dart';
-import 'package:first_appication1/pagesFolder/profile.dart';
-import 'package:first_appication1/pagesFolder/sample.dart';
-import 'package:first_appication1/pagesFolder/settings.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_navigation/pagesFolder/contact.dart';
+import 'package:flutter_navigation/pagesFolder/home.dart';
+import 'package:flutter_navigation/pagesFolder/profile.dart';
+import 'package:flutter_navigation/pagesFolder/sample.dart';
+import 'package:flutter_navigation/pagesFolder/settings.dart';
 
 // import 'package:demo/pages/fourth_page.dart';
 // import 'package:demo/pages/second_page.dart';
